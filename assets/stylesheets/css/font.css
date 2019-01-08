@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Between 2';
+    src: url('../../fonts/Between2-Light.woff2') format('woff2'),
+        url('../../fonts/Between2-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Between 2';
+    src: url('../../fonts/Between2-ExtraLight.woff2') format('woff2'),
+        url('../../fonts/Between2-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Between 2';
+    src: url('../../fonts/Between2-Heavy.woff2') format('woff2'),
+        url('../../fonts/Between2-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Between 2';
+    src: url('../../fonts/Between2-Medium.woff2') format('woff2'),
+        url('../../fonts/Between2-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Between 2';
+    src: url('../../fonts/Between2-Bold.woff2') format('woff2'),
+        url('../../fonts/Between2-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Between 2';
+    src: url('../../fonts/Between2-Regular.woff2') format('woff2'),
+        url('../../fonts/Between2-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
